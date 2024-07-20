@@ -1,0 +1,41 @@
+.footercontainer {
+  width: 1120px;
+  height: 299px;
+}
+.footer {
+  margin-top: auto;
+  width: 1120px;
+  height: 299px;
+  margin-left: 70px;
+  margin-right: auto;
+  display: flex;
+}
+.footerfirst {
+  width: 150px;
+  height: 122px;
+  margin-left: 0px;
+}
+.footerfirstimage {
+  width: 80px;
+  height: 80px;
+}
+.footerparagraph {
+  width: 115px;
+  height: 30px;
+}
+.footersecond {
+  height: 157px;
+  width: 219px;
+  gap: 116px;
+}
+.footersecondh1 {
+  margin-top: 0px;
+  width: 53px;
+  height: 29px;
+  margin-bottom: 0px;
+}
+.footersecondparagraph {
+  margin-top: 16px;
+  width: 219px;
+  height: 112px;
+}

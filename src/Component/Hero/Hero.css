@@ -1,0 +1,382 @@
+.homeelement {
+  margin-left: 70px;
+  margin-right: auto;
+  width: 1280px;
+  height: 2750px;
+}
+.homefirst {
+  width: 680px;
+  height: 382px;
+  margin-top: 60px;
+}
+.homeelementfirstcontainer {
+  width: 1280px;
+  height: 790px;
+}
+.homesecondpart {
+  margin-top: 40px;
+  width: 1400;
+}
+.homefirstlineone {
+  width: 277px;
+  height: 24px;
+  font-size: 20px;
+  font-weight: 400;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.homefirstlinetwo {
+  width: 680px;
+  height: 154px;
+  font-size: 64px;
+  font-weight: 400;
+  margin-top: 4px;
+  margin-bottom: 0;
+}
+.homefirstlinethree {
+  width: 481px;
+  height: 96px;
+  font-size: 20px;
+  font-weight: 400;
+  margin-top: 28;
+  margin-bottom: 0;
+}
+.island {
+  margin-top: 40px;
+  width: 1280px;
+  height: 880px;
+  margin-bottom: 0px;
+}
+.homefirstbutton {
+  background-color: #ffc690;
+  width: 160px;
+  height: 56px;
+  margin-top: 20px;
+  margin-bottom: 0;
+  border-radius: 8px;
+  font-size: 20px;
+  font-weight: 500;
+  padding: 16px 20px 16px 20px;
+  border: none;
+  outline: none;
+}
+.rectangleimg {
+  width: 315px;
+  height: 427px;
+  margin-left: 560px;
+  background: linear-gradient(
+    28.9deg,
+    rgba(255, 81, 47, 0.5) 0.07%,
+    rgba(240, 152, 25, 0.5) 94.59%
+  );
+}
+.oneimg {
+  margin-left: 245px;
+  margin-top: 30px;
+  margin-bottom: 16px;
+  width: 42px;
+  height: 44px;
+}
+.shoesimg {
+  width: 315px;
+  height: 265px;
+  margin-bottom: 16px;
+}
+.likeimg {
+  width: 64px;
+  height: 35px;
+  margin-left: 20px;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  background-color: transparent;
+}
+.likeimgs {
+  width: 64px;
+  height: 35px;
+  margin-left: 0px;
+}
+.homefirstimagecontainer {
+  display: flex;
+  gap: 2px;
+}
+.rectangleimg2 {
+  width: 315px;
+  height: 340px;
+  background: linear-gradient(
+    28.9deg,
+    rgba(255, 81, 47, 0.5) 0.07%,
+    rgba(240, 152, 25, 0.5) 94.59%
+  );
+
+  margin-top: 86px;
+}
+.homesecondcontainer {
+  gap: 164px;
+  display: flex;
+}
+.reason {
+  width: 1280px;
+
+  margin-left: 0px;
+  height: 900px;
+}
+.homesecondpart {
+  width: 1280px;
+
+  background: linear-gradient(
+    88.22deg,
+    rgba(255, 81, 47, 0.5) 0.06%,
+    rgba(240, 152, 25, 0.5) 99.94%
+  );
+  margin-left: 0px;
+  border-radius: 12px;
+}
+.homesecondfirst {
+  width: 1280px;
+  height: 230px;
+  border-radius: 12px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+}
+.homesecondheadings {
+  width: 295px;
+  height: 58px;
+  margin-top: 40px;
+  margin-left: 450px;
+  font-size: 48px;
+  font-weight: 600;
+  margin-bottom: 0px;
+}
+.homesecondparagraph {
+  width: 713px;
+  margin-top: 15 px;
+  height: 23px;
+  font-size: 20px;
+  margin-left: 284px;
+  margin-bottom: 0;
+}
+.imagesofhomesecond {
+  width: 245px;
+  height: 347px;
+  background-color: #ffe8d4;
+  margin-left: 35px;
+}
+.homesecondpartimage {
+  display: flex;
+  gap: 40px;
+  margin-top: 40px;
+  margin-bottom: 0px;
+}
+.homesecondpartimage2 {
+  display: flex;
+  gap: 40px;
+  margin-top: 40px;
+  margin-bottom: 0px;
+}
+.nameproduct {
+  width: 48px;
+  height: 19px;
+  margin-top: 16px;
+  margin-bottom: 0px;
+  font-size: 16px;
+  margin-left: 16px;
+}
+.priceproduct {
+  width: 72px;
+  margin-left: 16px;
+  height: 24px;
+  font-size: 20px;
+  color: #fa902d;
+  margin-top: 8px;
+  margin-bottom: 0px;
+}
+.slashprice {
+  width: 101px;
+  margin-left: 16px;
+  height: 17px;
+  font-size: 14px;
+  color: #8f8787;
+  margin-top: 6px;
+  margin-bottom: 0px;
+}
+.rs {
+  width: 36px;
+  margin-left: 8px;
+  height: 17px;
+  font-size: 14px;
+  color: black;
+  margin-top: 6px;
+  margin-bottom: 0px;
+}
+.homethirdheading {
+  width: 260px;
+  height: 34px;
+  margin-left: 510px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 28px;
+  font-weight: 600;
+}
+.homethird {
+  width: 1140px;
+  height: 362px;
+  margin-top: 40px;
+  margin-bottom: 0px;
+}
+.homethirdimages {
+  width: 1140px;
+  height: 260px;
+  margin-top: 28px;
+  gap: 30px;
+  display: flex;
+
+  background-color: #ffe8d4;
+}
+.imagethird {
+  width: 212px;
+  height: 260px;
+  background-color: #ffc690;
+}
+.thirdimage {
+  width: 212px;
+  margin-bottom: 0px;
+  height: 201px;
+}
+.headingimagethird {
+  margin-top: 20px;
+  font-size: 16px;
+  font-weight: 400;
+  margin-left: 86px;
+}
+.homefourth {
+  width: 1200px;
+  height: 242px;
+  background: linear-gradient(
+    87.53deg,
+    rgba(255, 81, 47, 0.5) 0.09%,
+    rgba(240, 152, 25, 0.5) 99.91%
+  );
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+.homefourthcontainer {
+  margin-left: 20px;
+  width: 1101px;
+  height: 242px;
+  display: flex;
+  gap: 119px;
+}
+.homefourthparagraph {
+  height: 134px;
+  width: 363px;
+  margin-left: 0px;
+  margin-top: 40px;
+}
+.homefourthheading {
+  font-size: 32px;
+  width: 221px;
+  height: 78px;
+  margin-top: 8px;
+  margin-bottom: 0px;
+}
+.homefourthparagraphs {
+  width: 363px;
+  height: 44px;
+  font-size: 18px;
+  margin-top: 0px;
+}
+.homefourthpromo {
+  margin-top: 59px;
+  width: 147px;
+  height: 128px;
+}
+.promo {
+  font-weight: 600;
+  font-size: 24px;
+  height: 29px;
+  width: 143px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.dashain {
+  font-weight: 400;
+  font-size: 20px;
+  height: 24px;
+  width: 116px;
+  margin-top: 8px;
+  margin-bottom: 0px;
+}
+.shipping {
+  font-weight: 500;
+  font-size: 16px;
+  height: 51px;
+  width: 147px;
+  margin-top: 8px;
+  margin-bottom: 0px;
+  background-color: #ffdfb6;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+.homefifth {
+  width: 1200px;
+  height: 279px;
+  display: flex;
+  gap: 16px;
+}
+.homefifthfirst {
+  width: 600px;
+  height: 279px;
+  background: linear-gradient(
+    76.73deg,
+    rgba(255, 81, 47, 0.5) 0.41%,
+    rgba(240, 152, 25, 0.5) 99.59%
+  );
+  border-radius: 10px;
+  display: flex;
+}
+.homefifthsecond {
+  background: linear-gradient(
+    76.73deg,
+    rgba(255, 81, 47, 0.5) 0.41%,
+    rgba(240, 152, 25, 0.5) 99.59%
+  );
+  border-radius: 10px;
+  width: 600px;
+  height: 279px;
+  display: flex;
+}
+.homefifthfirstparagraph {
+  height: 209px;
+  width: 239px;
+  margin-left: 20px;
+  margin-top: 32px;
+}
+.homefifthheading {
+  height: 68px;
+  width: 239px;
+  font-size: 28px;
+  font-weight: 600;
+  margin-bottom: 0px;
+}
+.homefifthparagraphs {
+  height: 68px;
+  width: 223px;
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 12px;
+}
+.twenty {
+  width: 133px;
+  height: 43px;
+  border-radius: 8px;
+  background-color: #ffdfb6;
+  cursor: pointer;
+  font-weight: 500;
+  font-size: 16px;
+  color: #46474b;
+  outline: none;
+  border: none;
+  margin-left: 86px;
+}

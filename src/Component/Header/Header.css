@@ -1,0 +1,131 @@
+.header {
+  width: 1280px;
+  height: 48px;
+  margin-top: 40px;
+  margin-left: 70px;
+  margin-right: auto;
+  margin-bottom: auto;
+}
+.headerfirst {
+  width: 1140px;
+  height: 48px;
+  margin-top: 40px;
+  margin-left: auto;
+  margin-left: 0px;
+  margin-right: auto;
+  display: flex;
+}
+.headerfirstcontainer {
+  width: 303px;
+  margin-right: 117px;
+  height: 48px;
+  margin-left: 0px;
+  align-items: center;
+  display: flex;
+}
+.headerfirstcontaineritem {
+  display: flex;
+  width: 117px;
+  height: 24px;
+  justify-content: center;
+  margin-left: 0px;
+  align-items: center;
+  gap: 1px;
+}
+.imagefirstcontainer {
+  width: 24px;
+  height: 24px;
+}
+.firstcontainerheading {
+  width: 85px;
+  height: 19px;
+  font-weight: 600;
+  font-size: 16px;
+}
+.headersecondcontainer {
+  width: 388px;
+  height: 48px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  background-color: #ffe2c7;
+  margin-right: 117px;
+}
+.headersecondimage {
+  width: 24px;
+  height: 24px;
+  margin-left: 12px;
+  margin-right: 6px;
+}
+.secondcontainerinput {
+  border: none;
+  outline: none;
+  width: 279px;
+  height: 19px;
+  font-size: 16px;
+  font-weight: 400;
+  background-color: #ffe2c7;
+  margin-top: 4px;
+}
+.headerthirdcontainer {
+  width: 215px;
+  height: 35px;
+  display: flex;
+}
+.headerthirdfirstitem {
+  width: 51px;
+  height: 19px;
+  margin-left: 12px;
+  margin-right: 12px;
+  margin-top: 15px;
+  font-size: 16px;
+  font-weight: 400;
+  border: none;
+  outline: none;
+  background-color: #feedde;
+  cursor: pointer;
+}
+.headerthirdseconditem {
+  width: 106px;
+  height: 35px;
+  border: none;
+  outline: none;
+  align-items: center;
+}
+.headerthirdsecondbutton {
+  align-items: center;
+  margin-top: 4px;
+  height: 40px;
+  display: flex;
+  background-color: #ffc690;
+  border: 0;
+  outline: 0;
+  margin-right: 0px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.ron {
+  margin-top: 15px;
+  font-size: 16px;
+}
+.userlighty {
+  padding-top: 8x;
+  width: 24px;
+  margin-right: 10px;
+  height: 24px;
+}
+.basket {
+  height: 24px;
+  width: 24px;
+  margin-right: 12 px;
+  margin-left: 0px;
+}
+.headerthirdthirditem {
+  height: 50px;
+  background-color: #feedde;
+  border: none;
+  outline: none;
+  width: 50px;
+  margin-left: 0px;
+  cursor: pointer;
+}
